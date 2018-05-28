@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Sprites">
+        <file>backgroundTest.png</file>
+        <file>enemyTest.png</file>
+        <file>fireballTest.png</file>
+        <file>playerSprites.png</file>
+        <file>Breath.png</file>
+    </qresource>
+</RCC>
